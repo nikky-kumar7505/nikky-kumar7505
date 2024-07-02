@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Nikky-Kumar
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ...Backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Nikky Kumar</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!---
-nikky-kumar7505/nikky-kumar7505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://github.com/nikky-kumar7505" /> </p>
+
+- 📫 How to reach me **knikky7505@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://in.linkedin.com/in/nikky-kumar-30177a266?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nawaz-anwar" height="30" width="40" /></a>
+<a href="https://instagram.com/shivamsahanix?igsh=MmhsbmZwMQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nawaz_anwar" height="30" width="40" /></a>
+
+
+
