@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://github.com/nikky-kumar7505" /> </p>
 
-- 📫 How to reach me **knikky7505@gmail.com**
+- 📫 How to reach me **knikki7505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
